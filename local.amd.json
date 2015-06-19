@@ -1,7 +1,7 @@
 {
-    "paths": {
-        "amber/web": "src"
-    },
+  "paths": {
+    "amber/web": "src"
+  },
   "map": {
     "*": {
       "00comment": "These are backward compatibility pointers.",
