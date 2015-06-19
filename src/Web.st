@@ -997,10 +997,18 @@ createTextNodeFor: aString
 
 !TagBrush class methodsFor: 'instance creation'!
 
+fromJQuery: aJQuery
+	^ self fromJQuery: aJQuery canvas: HTMLCanvas new
+!
+
 fromJQuery: aJQuery canvas: aCanvas
 	^ self new
 		initializeFromJQuery: aJQuery canvas: aCanvas;
 		yourself
+!
+
+fromString: aString
+	^ self fromString: aString canvas: HTMLCanvas new
 !
 
 fromString: aString canvas: aCanvas

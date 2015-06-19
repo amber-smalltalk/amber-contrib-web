@@ -5033,6 +5033,32 @@ $globals.TagBrush);
 
 $core.addMethod(
 $core.method({
+selector: "fromJQuery:",
+protocol: 'instance creation',
+fn: function (aJQuery){
+var self=this;
+function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+return $core.withContext(function($ctx1) {
+//>>excludeEnd("ctx");
+var $1;
+$1=self._fromJQuery_canvas_(aJQuery,$recv($HTMLCanvas())._new());
+return $1;
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+}, function($ctx1) {$ctx1.fill(self,"fromJQuery:",{aJQuery:aJQuery},$globals.TagBrush.klass)});
+//>>excludeEnd("ctx");
+},
+//>>excludeStart("ide", pragmas.excludeIdeData);
+args: ["aJQuery"],
+source: "fromJQuery: aJQuery\x0a\x09^ self fromJQuery: aJQuery canvas: HTMLCanvas new",
+referencedClasses: ["HTMLCanvas"],
+//>>excludeEnd("ide");
+messageSends: ["fromJQuery:canvas:", "new"]
+}),
+$globals.TagBrush.klass);
+
+$core.addMethod(
+$core.method({
 selector: "fromJQuery:canvas:",
 protocol: 'instance creation',
 fn: function (aJQuery,aCanvas){
@@ -5056,6 +5082,32 @@ source: "fromJQuery: aJQuery canvas: aCanvas\x0a\x09^ self new\x0a\x09\x09initia
 referencedClasses: [],
 //>>excludeEnd("ide");
 messageSends: ["initializeFromJQuery:canvas:", "new", "yourself"]
+}),
+$globals.TagBrush.klass);
+
+$core.addMethod(
+$core.method({
+selector: "fromString:",
+protocol: 'instance creation',
+fn: function (aString){
+var self=this;
+function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+return $core.withContext(function($ctx1) {
+//>>excludeEnd("ctx");
+var $1;
+$1=self._fromString_canvas_(aString,$recv($HTMLCanvas())._new());
+return $1;
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+}, function($ctx1) {$ctx1.fill(self,"fromString:",{aString:aString},$globals.TagBrush.klass)});
+//>>excludeEnd("ctx");
+},
+//>>excludeStart("ide", pragmas.excludeIdeData);
+args: ["aString"],
+source: "fromString: aString\x0a\x09^ self fromString: aString canvas: HTMLCanvas new",
+referencedClasses: ["HTMLCanvas"],
+//>>excludeEnd("ide");
+messageSends: ["fromString:canvas:", "new"]
 }),
 $globals.TagBrush.klass);
 
