@@ -1051,6 +1051,12 @@ classTag
 	^ 'widget'
 ! !
 
+!Association methodsFor: '*Web'!
+
+appendToBrush: aTagBrush
+	aTagBrush at: self key put: self value
+! !
+
 !BlockClosure methodsFor: '*Web'!
 
 appendToBrush: aTagBrush
@@ -1065,6 +1071,12 @@ appendToJQuery: aJQuery
 
 asSnippet
 	^ HTMLSnippet current snippetAt: self asString
+! !
+
+!Collection methodsFor: '*Web'!
+
+appendToBrush: aTagBrush
+	self do: [ :each | aTagBrush append: each ]
 ! !
 
 !Object methodsFor: '*Web'!

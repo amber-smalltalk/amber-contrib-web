@@ -5195,6 +5195,30 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
+$recv(aTagBrush)._at_put_(self._key(),self._value());
+return self;
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+}, function($ctx1) {$ctx1.fill(self,"appendToBrush:",{aTagBrush:aTagBrush},$globals.Association)});
+//>>excludeEnd("ctx");
+},
+//>>excludeStart("ide", pragmas.excludeIdeData);
+args: ["aTagBrush"],
+source: "appendToBrush: aTagBrush\x0a\x09aTagBrush at: self key put: self value",
+referencedClasses: [],
+//>>excludeEnd("ide");
+messageSends: ["at:put:", "key", "value"]
+}),
+$globals.Association);
+
+$core.addMethod(
+$core.method({
+selector: "appendToBrush:",
+protocol: '*Web',
+fn: function (aTagBrush){
+var self=this;
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+return $core.withContext(function($ctx1) {
+//>>excludeEnd("ctx");
 $recv(aTagBrush)._appendBlock_(self);
 return self;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
@@ -5260,6 +5284,38 @@ referencedClasses: ["HTMLSnippet"],
 messageSends: ["snippetAt:", "current", "asString"]
 }),
 $globals.CharacterArray);
+
+$core.addMethod(
+$core.method({
+selector: "appendToBrush:",
+protocol: '*Web',
+fn: function (aTagBrush){
+var self=this;
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+return $core.withContext(function($ctx1) {
+//>>excludeEnd("ctx");
+self._do_((function(each){
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+return $core.withContext(function($ctx2) {
+//>>excludeEnd("ctx");
+return $recv(aTagBrush)._append_(each);
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+}, function($ctx2) {$ctx2.fillBlock({each:each},$ctx1,1)});
+//>>excludeEnd("ctx");
+}));
+return self;
+//>>excludeStart("ctx", pragmas.excludeDebugContexts);
+}, function($ctx1) {$ctx1.fill(self,"appendToBrush:",{aTagBrush:aTagBrush},$globals.Collection)});
+//>>excludeEnd("ctx");
+},
+//>>excludeStart("ide", pragmas.excludeIdeData);
+args: ["aTagBrush"],
+source: "appendToBrush: aTagBrush\x0a\x09self do: [ :each | aTagBrush append: each ]",
+referencedClasses: [],
+//>>excludeEnd("ide");
+messageSends: ["do:", "append:"]
+}),
+$globals.Collection);
 
 $core.addMethod(
 $core.method({
