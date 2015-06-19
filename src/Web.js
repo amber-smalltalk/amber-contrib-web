@@ -6,7 +6,7 @@ define("amber/web/Web", ["amber/boot"
 //>>excludeStart("imports", pragmas.excludeImports);
 
 //>>excludeEnd("imports");
-){
+){"use strict";
 var $core=$boot.api,nil=$boot.nil,$recv=$boot.asReceiver,$globals=$boot.globals;
 $core.addPackage('Web');
 $core.packages["Web"].innerEval = function (expr) { return eval(expr); };
