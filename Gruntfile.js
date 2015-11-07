@@ -11,7 +11,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('amber-dev');
 
     // Default task.
-    grunt.registerTask('default', ['amberc:all']);
+    grunt.registerTask('default', ['amdconfig:app', 'amberc:all']);
     grunt.registerTask('test', ['amdconfig:app', 'requirejs:test_runner', 'execute:test_runner', 'clean:test_runner']);
     grunt.registerTask('devel', ['amdconfig:app', 'requirejs:devel']);
     grunt.registerTask('deploy', ['amdconfig:app', 'requirejs:deploy']);
@@ -29,25 +29,31 @@ module.exports = function (grunt) {
         amberc: {
             options: {
                 amber_dir: path.join(__dirname, "bower_components", "amber"),
-                library_dirs: ['src']
+                configFile: "config.js"
             },
             all: {
                 src: [
                     'src/Web.st' // list all sources in dependency order
                     // list all tests in dependency order
                 ],
-                amd_namespace: 'trapped',
-                libraries: []
+                amd_namespace: 'amber/web',
+                libraries: ['amber_core/SUnit']
             }
         },
 
         amdconfig: {app: {dest: 'config.js'}},
 
         requirejs: {
+            options: {
+                useStrict: true
+            },
             deploy: {
                 options: {
                     mainConfigFile: "config.js",
-                    rawText: {"app": 'define(["deploy"],function(x){return x});'},
+                    rawText: {
+                        "amber/Platform": '/*stub*/',
+                        "app": 'define(["deploy"],function(x){return x});define("amber/Platform",["amber_core/Platform-Browser"],{});'
+                    },
                     pragmas: {
                         excludeIdeData: true,
                         excludeDebugContexts: true
@@ -59,7 +65,10 @@ module.exports = function (grunt) {
             devel: {
                 options: {
                     mainConfigFile: "config.js",
-                    rawText: {"app": 'define(["devel"],function(x){return x});'},
+                    rawText: {
+                        "amber/Platform": '/*stub*/',
+                        "app": 'define(["devel"],function(x){return x});define("amber/Platform",["amber_core/Platform-Browser"],{});'
+                    },
                     include: ['config', 'node_modules/requirejs/require', 'app'],
                     exclude: ['devel'],
                     out: "the.js"

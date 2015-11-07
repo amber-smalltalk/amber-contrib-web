@@ -23,14 +23,15 @@
     "test",
     "tests"
   ],
+  "private": false,
   "dependencies": {
     "amber": ">=0.12.6",
     "amber-contrib-jquery": ">=0.1.0"
   },
   "devDependencies": {
-    "amber": ">=0.14.4",
+    "amber": ">=0.14.17",
     "amber-ide-starter-dialog": "^0.1.0",
-    "amber-contrib-legacy": "^0.2.0",
-    "helios": ">=0.4.3"
+    "amber-contrib-legacy": "^0.2.1",
+    "helios": ">=0.5.3"
   }
 }

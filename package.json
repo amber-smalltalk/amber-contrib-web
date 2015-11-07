@@ -4,11 +4,11 @@
   "description": "Amber Smalltalk's original Seaside-inspired DOM manipulation library",
   "main": "local.amd.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "grunt test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/amber-smalltalk/amber-contrib-web"
+    "url": "git://github.com/amber-smalltalk/amber-contrib-web.git"
   },
   "keywords": [
     "amber",
@@ -21,8 +21,11 @@
     "url": "https://github.com/amber-smalltalk/amber-contrib-web/issues"
   },
   "homepage": "https://github.com/amber-smalltalk/amber-contrib-web",
+  "engines": {
+    "node": "0.10.x || 0.12.x || >=4.0.0"
+  },
   "devDependencies": {
-    "amber-dev": "^0.6.0",
+    "amber-dev": "^0.8.0",
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-requirejs": "^0.4.4",
