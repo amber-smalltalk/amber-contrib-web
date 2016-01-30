@@ -25,7 +25,7 @@
   ],
   "private": false,
   "dependencies": {
-    "amber": ">=0.12.6",
+    "amber": ">0.14.4",
     "amber-contrib-jquery": ">=0.1.0"
   },
   "devDependencies": {
