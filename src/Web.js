@@ -26,9 +26,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("a");
-return $1;
+return self._tag_("a");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"a",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -51,9 +49,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("abbr");
-return $1;
+return self._tag_("abbr");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"abbr",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -76,9 +72,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("address");
-return $1;
+return self._tag_("address");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"address",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -101,9 +95,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("area");
-return $1;
+return self._tag_("area");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"area",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -126,9 +118,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("article");
-return $1;
+return self._tag_("article");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"article",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -151,9 +141,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("aside");
-return $1;
+return self._tag_("aside");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"aside",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -176,9 +164,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("audio");
-return $1;
+return self._tag_("audio");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"audio",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -201,9 +187,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("base");
-return $1;
+return self._tag_("base");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"base",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -226,9 +210,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("blockquote");
-return $1;
+return self._tag_("blockquote");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"blockquote",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -251,9 +233,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("body");
-return $1;
+return self._tag_("body");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"body",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -276,9 +256,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("br");
-return $1;
+return self._tag_("br");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"br",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -301,9 +279,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("button");
-return $1;
+return self._tag_("button");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"button",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -326,9 +302,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("canvas");
-return $1;
+return self._tag_("canvas");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"canvas",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -351,9 +325,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("caption");
-return $1;
+return self._tag_("caption");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"caption",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -376,9 +348,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("cite");
-return $1;
+return self._tag_("cite");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"cite",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -401,9 +371,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("code");
-return $1;
+return self._tag_("code");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"code",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -426,9 +394,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("col");
-return $1;
+return self._tag_("col");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"col",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -451,9 +417,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("colgroup");
-return $1;
+return self._tag_("colgroup");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"colgroup",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -476,9 +440,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("command");
-return $1;
+return self._tag_("command");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"command",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -501,9 +463,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("datalist");
-return $1;
+return self._tag_("datalist");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"datalist",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -526,9 +486,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("dd");
-return $1;
+return self._tag_("dd");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"dd",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -551,9 +509,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("del");
-return $1;
+return self._tag_("del");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"del",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -576,9 +532,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("details");
-return $1;
+return self._tag_("details");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"details",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -601,9 +555,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("div");
-return $1;
+return self._tag_("div");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"div",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -626,9 +578,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._div())._with_(aBlock);
-return $1;
+return $recv(self._div())._with_(aBlock);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"div:",{aBlock:aBlock},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -651,9 +601,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("dl");
-return $1;
+return self._tag_("dl");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"dl",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -676,9 +624,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("dt");
-return $1;
+return self._tag_("dt");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"dt",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -701,9 +647,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("em");
-return $1;
+return self._tag_("em");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"em",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -726,9 +670,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("embed");
-return $1;
+return self._tag_("embed");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"embed",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -792,9 +734,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("fieldset");
-return $1;
+return self._tag_("fieldset");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"fieldset",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -817,9 +757,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("figcaption");
-return $1;
+return self._tag_("figcaption");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"figcaption",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -842,9 +780,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("figure");
-return $1;
+return self._tag_("figure");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"figure",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -867,9 +803,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("footer");
-return $1;
+return self._tag_("footer");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"footer",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -892,9 +826,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("form");
-return $1;
+return self._tag_("form");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"form",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -917,9 +849,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("h1");
-return $1;
+return self._tag_("h1");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h1",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -942,9 +872,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._h1())._with_(anObject);
-return $1;
+return $recv(self._h1())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h1:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -967,9 +895,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("h2");
-return $1;
+return self._tag_("h2");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h2",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -992,9 +918,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._h2())._with_(anObject);
-return $1;
+return $recv(self._h2())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h2:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1017,9 +941,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("h3");
-return $1;
+return self._tag_("h3");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h3",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1042,9 +964,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._h3())._with_(anObject);
-return $1;
+return $recv(self._h3())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h3:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1067,9 +987,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("h4");
-return $1;
+return self._tag_("h4");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h4",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1092,9 +1010,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._h4())._with_(anObject);
-return $1;
+return $recv(self._h4())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h4:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1117,9 +1033,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("h5");
-return $1;
+return self._tag_("h5");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h5",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1142,9 +1056,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._h5())._with_(anObject);
-return $1;
+return $recv(self._h5())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h5:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1167,9 +1079,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("h6");
-return $1;
+return self._tag_("h6");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h6",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1192,9 +1102,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._h6())._with_(anObject);
-return $1;
+return $recv(self._h6())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"h6:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1217,9 +1125,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("head");
-return $1;
+return self._tag_("head");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"head",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1242,9 +1148,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("header");
-return $1;
+return self._tag_("header");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"header",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1267,9 +1171,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("hgroup");
-return $1;
+return self._tag_("hgroup");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"hgroup",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1292,9 +1194,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("hr");
-return $1;
+return self._tag_("hr");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"hr",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1317,9 +1217,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("html");
-return $1;
+return self._tag_("html");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"html",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1342,9 +1240,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("iframe");
-return $1;
+return self._tag_("iframe");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"iframe",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1367,9 +1263,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._iframe())._src_(aString);
-return $1;
+return $recv(self._iframe())._src_(aString);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"iframe:",{aString:aString},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1392,9 +1286,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("img");
-return $1;
+return self._tag_("img");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"img",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1417,9 +1309,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._img())._src_(aString);
-return $1;
+return $recv(self._img())._src_(aString);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"img:",{aString:aString},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1439,22 +1329,21 @@ selector: "initialize",
 protocol: 'initialization',
 fn: function (){
 var self=this;
-function $TagBrush(){return $globals.TagBrush||(typeof TagBrush=="undefined"?nil:TagBrush)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
 var $1,$receiver;
 (
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
-$ctx1.supercall = true, 
+$ctx1.supercall = true,
 //>>excludeEnd("ctx");
-$globals.HTMLCanvas.superclass.fn.prototype._initialize.apply($recv(self), []));
+($globals.HTMLCanvas.superclass||$boot.dnu).fn.prototype._initialize.apply($recv(self), []));
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 $ctx1.supercall = false;
 //>>excludeEnd("ctx");;
 $1=self["@root"];
 if(($receiver = $1) == null || $receiver.isNil){
-self["@root"]=$recv($TagBrush())._fromString_canvas_("div",self);
+self["@root"]=$recv($globals.TagBrush)._fromString_canvas_("div",self);
 self["@root"];
 } else {
 $1;
@@ -1479,11 +1368,10 @@ selector: "initializeFromJQuery:",
 protocol: 'initialization',
 fn: function (aJQuery){
 var self=this;
-function $TagBrush(){return $globals.TagBrush||(typeof TagBrush=="undefined"?nil:TagBrush)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-self["@root"]=$recv($TagBrush())._fromJQuery_canvas_(aJQuery,self);
+self["@root"]=$recv($globals.TagBrush)._fromJQuery_canvas_(aJQuery,self);
 return self;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"initializeFromJQuery:",{aJQuery:aJQuery},$globals.HTMLCanvas)});
@@ -1507,9 +1395,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("input");
-return $1;
+return self._tag_("input");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"input",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1532,9 +1418,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("label");
-return $1;
+return self._tag_("label");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"label",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1557,9 +1441,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("legend");
-return $1;
+return self._tag_("legend");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"legend",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1582,9 +1464,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("li");
-return $1;
+return self._tag_("li");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"li",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1607,9 +1487,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._li())._with_(anObject);
-return $1;
+return $recv(self._li())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"li:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1632,9 +1510,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("link");
-return $1;
+return self._tag_("link");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"link",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1657,9 +1533,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("map");
-return $1;
+return self._tag_("map");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"map",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1682,9 +1556,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("mark");
-return $1;
+return self._tag_("mark");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"mark",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1707,9 +1579,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("menu");
-return $1;
+return self._tag_("menu");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"menu",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1732,9 +1602,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("meta");
-return $1;
+return self._tag_("meta");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"meta",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1757,9 +1625,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("nav");
-return $1;
+return self._tag_("nav");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"nav",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1779,13 +1645,10 @@ selector: "newTag:",
 protocol: 'tags',
 fn: function (aString){
 var self=this;
-function $TagBrush(){return $globals.TagBrush||(typeof TagBrush=="undefined"?nil:TagBrush)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv($TagBrush())._fromString_canvas_(aString,self);
-return $1;
+return $recv($globals.TagBrush)._fromString_canvas_(aString,self);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"newTag:",{aString:aString},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1808,9 +1671,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("noscript");
-return $1;
+return self._tag_("noscript");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"noscript",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1833,9 +1694,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("object");
-return $1;
+return self._tag_("object");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"object",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1858,9 +1717,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("ol");
-return $1;
+return self._tag_("ol");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"ol",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1883,9 +1740,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._ol())._with_(anObject);
-return $1;
+return $recv(self._ol())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"ol:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1908,9 +1763,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("optgroup");
-return $1;
+return self._tag_("optgroup");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"optgroup",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1933,9 +1786,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("option");
-return $1;
+return self._tag_("option");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"option",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1958,9 +1809,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("output");
-return $1;
+return self._tag_("output");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"output",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -1983,9 +1832,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("p");
-return $1;
+return self._tag_("p");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"p",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2008,9 +1855,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._p())._with_(anObject);
-return $1;
+return $recv(self._p())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"p:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2033,9 +1878,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("param");
-return $1;
+return self._tag_("param");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"param",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2058,9 +1901,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("pre");
-return $1;
+return self._tag_("pre");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"pre",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2083,9 +1924,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("progress");
-return $1;
+return self._tag_("progress");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"progress",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2105,9 +1944,7 @@ selector: "root",
 protocol: 'accessing',
 fn: function (){
 var self=this;
-var $1;
-$1=self["@root"];
-return $1;
+return self["@root"];
 
 },
 //>>excludeStart("ide", pragmas.excludeIdeData);
@@ -2147,9 +1984,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("script");
-return $1;
+return self._tag_("script");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"script",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2172,9 +2007,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("section");
-return $1;
+return self._tag_("section");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"section",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2197,9 +2030,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("select");
-return $1;
+return self._tag_("select");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"select",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2222,9 +2053,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("small");
-return $1;
+return self._tag_("small");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"small",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2245,13 +2074,12 @@ protocol: 'accessing',
 fn: function (anElement){
 var self=this;
 var clone,caret;
-function $TagBrush(){return $globals.TagBrush||(typeof TagBrush=="undefined"?nil:TagBrush)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1,$2,$3;
+var $1,$2;
 clone=$recv($recv(anElement)._asJQuery())._clone();
-$1=$recv($TagBrush())._fromJQuery_canvas_(clone,self);
+$1=$recv($globals.TagBrush)._fromJQuery_canvas_(clone,self);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 $ctx1.sendIdx["fromJQuery:canvas:"]=1;
 //>>excludeEnd("ctx");
@@ -2262,8 +2090,7 @@ if($core.assert($2)){
 caret=clone;
 caret;
 };
-$3=$recv($TagBrush())._fromJQuery_canvas_($recv(caret)._removeAttr_("data-snippet"),self);
-return $3;
+return $recv($globals.TagBrush)._fromJQuery_canvas_($recv(caret)._removeAttr_("data-snippet"),self);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"snippet:",{anElement:anElement,clone:clone,caret:caret},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2286,9 +2113,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("source");
-return $1;
+return self._tag_("source");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"source",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2311,9 +2136,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("span");
-return $1;
+return self._tag_("span");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"span",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2336,9 +2159,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._span())._with_(anObject);
-return $1;
+return $recv(self._span())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"span:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2361,9 +2182,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("strong");
-return $1;
+return self._tag_("strong");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"strong",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2386,9 +2205,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._strong())._with_(anObject);
-return $1;
+return $recv(self._strong())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"strong:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2411,9 +2228,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("style");
-return $1;
+return self._tag_("style");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"style",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2436,12 +2251,10 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $2,$3,$1;
-$2=self._style();
-$recv($2)._with_(aString);
-$3=$recv($2)._yourself();
-$1=$3;
-return $1;
+var $1;
+$1=self._style();
+$recv($1)._with_(aString);
+return $recv($1)._yourself();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"style:",{aString:aString},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2464,9 +2277,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("sub");
-return $1;
+return self._tag_("sub");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"sub",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2489,9 +2300,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("summary");
-return $1;
+return self._tag_("summary");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"summary",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2514,9 +2323,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("sup");
-return $1;
+return self._tag_("sup");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"sup",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2539,9 +2346,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("table");
-return $1;
+return self._tag_("table");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"table",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2564,9 +2369,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self["@root"])._addBrush_(self._newTag_(aString));
-return $1;
+return $recv(self["@root"])._addBrush_(self._newTag_(aString));
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"tag:",{aString:aString},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2589,9 +2392,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("tbody");
-return $1;
+return self._tag_("tbody");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"tbody",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2614,9 +2415,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("td");
-return $1;
+return self._tag_("td");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"td",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2639,9 +2438,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("textarea");
-return $1;
+return self._tag_("textarea");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"textarea",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2664,9 +2461,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("tfoot");
-return $1;
+return self._tag_("tfoot");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"tfoot",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2689,9 +2484,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("th");
-return $1;
+return self._tag_("th");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"th",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2714,9 +2507,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("thead");
-return $1;
+return self._tag_("thead");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"thead",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2739,9 +2530,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("time");
-return $1;
+return self._tag_("time");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"time",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2764,9 +2553,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("title");
-return $1;
+return self._tag_("title");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"title",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2789,9 +2576,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("tr");
-return $1;
+return self._tag_("tr");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"tr",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2814,9 +2599,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("ul");
-return $1;
+return self._tag_("ul");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"ul",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2839,9 +2622,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._ul())._with_(anObject);
-return $1;
+return $recv(self._ul())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"ul:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2864,9 +2645,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._tag_("video");
-return $1;
+return self._tag_("video");
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"video",{},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2889,9 +2668,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._root())._with_(anObject);
-return $1;
+return $recv(self._root())._with_(anObject);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"with:",{anObject:anObject},$globals.HTMLCanvas)});
 //>>excludeEnd("ctx");
@@ -2915,13 +2692,11 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $2,$3,$1;
-$2=self._basicNew();
-$recv($2)._initializeFromJQuery_(aJQuery);
-$recv($2)._initialize();
-$3=$recv($2)._yourself();
-$1=$3;
-return $1;
+var $1;
+$1=self._basicNew();
+$recv($1)._initializeFromJQuery_(aJQuery);
+$recv($1)._initialize();
+return $recv($1)._yourself();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"onJQuery:",{aJQuery:aJQuery},$globals.HTMLCanvas.klass)});
 //>>excludeEnd("ctx");
@@ -3019,9 +2794,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._snippets())._at_(aString);
-return $1;
+return $recv(self._snippets())._at_(aString);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"snippetAt:",{aString:aString},$globals.HTMLSnippet)});
 //>>excludeEnd("ctx");
@@ -3041,12 +2814,10 @@ selector: "snippetAt:compile:",
 protocol: 'method generation',
 fn: function (aString,anElement){
 var self=this;
-function $ClassBuilder(){return $globals.ClassBuilder||(typeof ClassBuilder=="undefined"?nil:ClassBuilder)}
-function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-$recv($recv($ClassBuilder())._new())._installMethod_forClass_protocol_($recv($recv((function(htmlReceiver){
+$recv($recv($globals.ClassBuilder)._new())._installMethod_forClass_protocol_($recv($recv((function(htmlReceiver){
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx2) {
 //>>excludeEnd("ctx");
@@ -3054,7 +2825,7 @@ return $recv(htmlReceiver)._snippet_(anElement);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx2) {$ctx2.fillBlock({htmlReceiver:htmlReceiver},$ctx1,1)});
 //>>excludeEnd("ctx");
-}))._currySelf())._asCompiledMethod_(aString),$HTMLCanvas(),"**snippets");
+}))._currySelf())._asCompiledMethod_(aString),$globals.HTMLCanvas,"**snippets");
 return self;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"snippetAt:compile:",{aString:aString,anElement:anElement},$globals.HTMLSnippet)});
@@ -3103,15 +2874,14 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $2,$1,$receiver;
-$2=self["@snippets"];
-if(($receiver = $2) == null || $receiver.isNil){
-self["@snippets"]=$globals.HashedCollection._newFromPairs_([]);
+var $1,$receiver;
 $1=self["@snippets"];
+if(($receiver = $1) == null || $receiver.isNil){
+self["@snippets"]=$globals.HashedCollection._newFromPairs_([]);
+return self["@snippets"];
 } else {
-$1=$2;
-};
 return $1;
+};
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"snippets",{},$globals.HTMLSnippet)});
 //>>excludeEnd("ctx");
@@ -3134,9 +2904,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv($recv(aJQuery)._find_("[data-snippet]"))._toArray();
-return $1;
+return $recv($recv(aJQuery)._find_("[data-snippet]"))._toArray();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"snippetsFromJQuery:",{aJQuery:aJQuery},$globals.HTMLSnippet)});
 //>>excludeEnd("ctx");
@@ -3158,9 +2926,7 @@ selector: "current",
 protocol: 'instance creation',
 fn: function (){
 var self=this;
-var $1;
-$1=self["@current"];
-return $1;
+return self["@current"];
 
 },
 //>>excludeStart("ide", pragmas.excludeIdeData);
@@ -3181,20 +2947,19 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1,$2,$3,$receiver;
+var $1,$2,$receiver;
 $1=self["@current"];
 if(($receiver = $1) == null || $receiver.isNil){
 $2=(
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
-$ctx1.supercall = true, 
+$ctx1.supercall = true,
 //>>excludeEnd("ctx");
-$globals.HTMLSnippet.klass.superclass.fn.prototype._new.apply($recv(self), []));
+($globals.HTMLSnippet.klass.superclass||$boot.dnu).fn.prototype._new.apply($recv(self), []));
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 $ctx1.supercall = false;
 //>>excludeEnd("ctx");;
 $recv($2)._initializeFromJQuery_($recv(document)._asJQuery());
-$3=$recv($2)._yourself();
-self["@current"]=$3;
+self["@current"]=$recv($2)._yourself();
 self["@current"];
 } else {
 $1;
@@ -3225,9 +2990,9 @@ return $core.withContext(function($ctx1) {
 var $1;
 (
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
-$ctx1.supercall = true, 
+$ctx1.supercall = true,
 //>>excludeEnd("ctx");
-$globals.HTMLSnippet.klass.superclass.fn.prototype._initialize.apply($recv(self), []));
+($globals.HTMLSnippet.klass.superclass||$boot.dnu).fn.prototype._initialize.apply($recv(self), []));
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 $ctx1.supercall = false;
 //>>excludeEnd("ctx");;
@@ -3587,9 +3352,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._element())._asJQuery();
-return $1;
+return $recv(self._element())._asJQuery();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"asJQuery",{},$globals.TagBrush)});
 //>>excludeEnd("ctx");
@@ -3612,9 +3375,7 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv(self._element())._asJQueryInContext_(aContext);
-return $1;
+return $recv(self._element())._asJQueryInContext_(aContext);
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"asJQueryInContext:",{aContext:aContext},$globals.TagBrush)});
 //>>excludeEnd("ctx");
@@ -3634,21 +3395,18 @@ selector: "at:",
 protocol: 'attributes',
 fn: function (aString){
 var self=this;
-function $Collection(){return $globals.Collection||(typeof Collection=="undefined"?nil:Collection)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._at_ifAbsent_(aString,(function(){
+return self._at_ifAbsent_(aString,(function(){
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx2) {
 //>>excludeEnd("ctx");
-return $recv($recv($Collection())._new())._errorNotFound();
+return $recv($recv($globals.Collection)._new())._errorNotFound();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx2) {$ctx2.fillBlock({},$ctx1,1)});
 //>>excludeEnd("ctx");
 }));
-return $1;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"at:",{aString:aString},$globals.TagBrush)});
 //>>excludeEnd("ctx");
@@ -3791,9 +3549,8 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
 self._empty();
-$1=self._append_(anObject);
+self._append_(anObject);
 return self;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"contents:",{anObject:anObject},$globals.TagBrush)});
@@ -3910,9 +3667,7 @@ selector: "element",
 protocol: 'accessing',
 fn: function (){
 var self=this;
-var $1;
-$1=self["@element"];
-return $1;
+return self["@element"];
 
 },
 //>>excludeStart("ide", pragmas.excludeIdeData);
@@ -5037,13 +4792,10 @@ selector: "fromJQuery:",
 protocol: 'instance creation',
 fn: function (aJQuery){
 var self=this;
-function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._fromJQuery_canvas_(aJQuery,$recv($HTMLCanvas())._new());
-return $1;
+return self._fromJQuery_canvas_(aJQuery,$recv($globals.HTMLCanvas)._new());
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"fromJQuery:",{aJQuery:aJQuery},$globals.TagBrush.klass)});
 //>>excludeEnd("ctx");
@@ -5066,12 +4818,10 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $2,$3,$1;
-$2=self._new();
-$recv($2)._initializeFromJQuery_canvas_(aJQuery,aCanvas);
-$3=$recv($2)._yourself();
-$1=$3;
-return $1;
+var $1;
+$1=self._new();
+$recv($1)._initializeFromJQuery_canvas_(aJQuery,aCanvas);
+return $recv($1)._yourself();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"fromJQuery:canvas:",{aJQuery:aJQuery,aCanvas:aCanvas},$globals.TagBrush.klass)});
 //>>excludeEnd("ctx");
@@ -5091,13 +4841,10 @@ selector: "fromString:",
 protocol: 'instance creation',
 fn: function (aString){
 var self=this;
-function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=self._fromString_canvas_(aString,$recv($HTMLCanvas())._new());
-return $1;
+return self._fromString_canvas_(aString,$recv($globals.HTMLCanvas)._new());
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"fromString:",{aString:aString},$globals.TagBrush.klass)});
 //>>excludeEnd("ctx");
@@ -5120,12 +4867,10 @@ var self=this;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $2,$3,$1;
-$2=self._new();
-$recv($2)._initializeFromString_canvas_(aString,aCanvas);
-$3=$recv($2)._yourself();
-$1=$3;
-return $1;
+var $1;
+$1=self._new();
+$recv($1)._initializeFromString_canvas_(aString,aCanvas);
+return $recv($1)._yourself();
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"fromString:canvas:",{aString:aString,aCanvas:aCanvas},$globals.TagBrush.klass)});
 //>>excludeEnd("ctx");
@@ -5182,11 +4927,10 @@ selector: "appendToJQuery:",
 protocol: 'adding',
 fn: function (aJQuery){
 var self=this;
-function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-self._renderOn_($recv($HTMLCanvas())._onJQuery_(aJQuery));
+self._renderOn_($recv($globals.HTMLCanvas)._onJQuery_(aJQuery));
 return self;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"appendToJQuery:",{aJQuery:aJQuery},$globals.Widget)});
@@ -5292,11 +5036,10 @@ selector: "appendToJQuery:",
 protocol: '*Web',
 fn: function (aJQuery){
 var self=this;
-function $HTMLCanvas(){return $globals.HTMLCanvas||(typeof HTMLCanvas=="undefined"?nil:HTMLCanvas)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-self._value_($recv($HTMLCanvas())._onJQuery_(aJQuery));
+self._value_($recv($globals.HTMLCanvas)._onJQuery_(aJQuery));
 return self;
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"appendToJQuery:",{aJQuery:aJQuery},$globals.BlockClosure)});
@@ -5317,13 +5060,10 @@ selector: "asSnippet",
 protocol: '*Web',
 fn: function (){
 var self=this;
-function $HTMLSnippet(){return $globals.HTMLSnippet||(typeof HTMLSnippet=="undefined"?nil:HTMLSnippet)}
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 return $core.withContext(function($ctx1) {
 //>>excludeEnd("ctx");
-var $1;
-$1=$recv($recv($HTMLSnippet())._current())._snippetAt_(self._asString());
-return $1;
+return $recv($recv($globals.HTMLSnippet)._current())._snippetAt_(self._asString());
 //>>excludeStart("ctx", pragmas.excludeDebugContexts);
 }, function($ctx1) {$ctx1.fill(self,"asSnippet",{},$globals.CharacterArray)});
 //>>excludeEnd("ctx");
