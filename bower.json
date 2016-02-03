@@ -1,6 +1,6 @@
 {
   "name": "amber-contrib-web",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "homepage": "https://github.com/amber-smalltalk/amber-contrib-web",
   "description": "Amber Smalltalk's original Seaside-inspired DOM manipulation library",
   "main": "local.amd.json",
