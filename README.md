@@ -6,7 +6,7 @@ Formerly part of core Amber, extracted to its own repository.
 MOVED
 ====
 
-Amber is now at https://lolg.it/amber/amber-contrib-web.
+Now at https://lolg.it/amber/amber-contrib-web.
 
 .
 
